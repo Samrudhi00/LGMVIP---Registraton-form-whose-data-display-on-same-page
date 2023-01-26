@@ -1,0 +1,25 @@
+* head {
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  border-radius: 5%;
+  }
+
+body {
+  
+ 
+  color: black;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+  .form-control
+  {
+    width: 60%;
+    
+  } 
+
+  .navbar{
+    align-items: center;
+  }
